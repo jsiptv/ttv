@@ -2,6 +2,9 @@ const fs = require('fs');
 
 // 🌐 数据源列表
 const SOURCES = [
+  'https://raw.githubusercontent.com/vipxb/zhibo/master/output/tv.m3u',
+  'https://raw.githubusercontent.com/perrsonxxa/iptv-api/master/output/user_result.m3u',
+  'https://raw.githubusercontent.com/pjh723/IPTV/master/all_m3u.m3u',
   'https://raw.githubusercontent.com/YueChan/Live/main/APTV.m3u',
   'https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u',
   'https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u',
