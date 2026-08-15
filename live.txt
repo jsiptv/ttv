@@ -1,25 +1,9 @@
 央视,#genre#
-CCTV-1,http://115.29.208.41:23001/live/1402_7500.m3u8
-CCTV-2,http://115.29.208.41:23001/live/1602_7500.m3u8
-CCTV-3,http://115.29.208.41:23001/live/1603_7500.m3u8
-CCTV-4,http://115.29.208.41:23001/live/1604.m3u8
-CCTV-5,http://115.29.208.41:23001/live/1605_7500.m3u8
-CCTV-5+,http://115.29.208.41:23001/live/1403_7500.m3u8
-CCTV-6,http://115.29.208.41:23001/live/1606_7500.m3u8
-CCTV-7,http://115.29.208.41:23001/live/1607.m3u8
-CCTV-8,http://115.29.208.41:23001/live/1608_7500.m3u8
-CCTV-9,http://115.29.208.41:23001/live/1009.m3u8
-CCTV-10,http://115.29.208.41:23001/live/1610_7500.m3u8
-CCTV-11,http://115.29.208.41:23001/live/1611_7500.m3u8
-CCTV-12,http://115.29.208.41:23001/live/1012.m3u8
-CCTV-13,http://115.29.208.41:23001/live/1613.m3u8
-CCTV-15,http://115.29.208.41:23001/live/1015.m3u8
-CCTV-16,http://115.29.208.41:23001/live/4010.m3u8
-CCTV-17,https://live.264788.xyz/channel/cctv17
 CCTV电视指南,http://107.150.60.122/live/dszn.m3u8
 央视台球,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=ystq$订阅源
 CCTV-2 财经,http://222.223.41.27:8888/hls/2/index.m3u8
 CCTV-4 中文国际,http://120.211.62.180:8000/hls/4/index.m3u8
+CCTV-5+ 体育赛事,http://183.129.255.66:8480/hls/6/index.m3u8
 CCTV-8 电视剧,http://107.150.60.122/live/cctv8hd.m3u8
 CCTV-11 戏曲,http://111.61.208.131:9019/hls/11/index.m3u8
 CCTV-14 少儿,http://107.150.60.122/live/cctv14hd.m3u8
@@ -41,12 +25,12 @@ CCTV-3 (720p),http://74.91.26.218:82/live/cctv3hd.m3u8
 CCTV-4 Asia (720p),http://74.91.26.218:82/live/cctv4hd.m3u8
 CCTV-4K (1080p),http://198.204.240.250:82/live/cctv4k.m3u8
 CCTV-6 (1080p),http://69.30.245.50/live/cctv6.m3u8
-CCTV-6 [Geo-blocked],https://live.eac-news.com/CCTV/streams/cctv6.m3u8
 CCTV-7 (720p),http://74.91.26.218:82/live/cctv7hd.m3u8
 CCTV-8 (720p),http://74.91.26.218:82/live/cctv8hd.m3u8
 CCTV-8K (1080p),http://192.151.150.154/live/cctv8k.m3u8
 CCTV-9 (576i),https://xykt-fix.github.io/Y77.m3u8
 CCTV-10 (720p),http://74.91.26.218:82/live/cctv10hd.m3u8
+CCTV-10 (576i),https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8
 CCTV-11 (720p),http://74.91.26.218:82/live/cctv11hd.m3u8
 CCTV-12 (720p),http://74.91.26.218:82/live/cctv12hd.m3u8
 CCTV-13 (720p),http://74.91.26.218:82/live/cctv13hd.m3u8
@@ -55,47 +39,15 @@ CCTV-15 (720p),http://74.91.26.218:82/live/cctv15hd.m3u8
 CCTV-16 (1080p),http://74.91.26.218:82/live/cctv16hd.m3u8
 CCTV-17 (1080p),http://74.91.26.218:82/live/cctv17hd.m3u8
 地方卫视,#genre#
-湖北卫视,http://115.29.208.41:23001/live/1417_7500.m3u8
-湖南卫视,http://115.29.208.41:23001/live/1203.m3u8
-北京卫视,http://115.29.208.41:23001/live/1407_7500.m3u8
-浙江卫视,http://115.29.208.41:23001/live/1204.m3u8
-山东卫视,http://115.29.208.41:23001/live/1208.m3u8
-天津卫视,http://115.29.208.41:23001/live/1415_7500.m3u8
-深圳卫视,http://115.29.208.41:23001/live/1405_7500.m3u8
-重庆卫视,http://115.29.208.41:23001/live/1237.m3u8
-东方卫视,http://115.29.208.41:23001/live/1406_7500.m3u8
-安徽卫视,http://115.29.208.41:23001/live/1418.m3u8
-东南卫视,http://115.29.208.41:23001/live/1427_7500.m3u8
-广东卫视,http://115.29.208.41:23001/live/1213.m3u8
-贵州卫视,http://115.29.208.41:23001/live/1240.m3u8
-河北卫视,http://115.29.208.41:23001/live/1247.m3u8
-黑龙江卫视,http://115.29.208.41:23001/live/1235.m3u8
-吉林卫视,http://115.29.208.41:23001/live/1438.m3u8
-江苏卫视,http://115.29.208.41:23001/live/1410_7500.m3u8
-江西卫视,http://115.29.208.41:23001/live/1428.m3u8
-辽宁卫视,http://115.29.208.41:23001/live/1414_7500.m3u8
-大湾区卫视,http://115.29.208.41:23001/live/1217.m3u8
-云南卫视,http://115.29.208.41:23001/live/1239.m3u8
-河南卫视,http://115.29.208.41:23001/live/1243.m3u8
-广西卫视,http://115.29.208.41:23001/live/1444_7500.m3u8
-四川卫视,http://115.29.208.41:23001/live/4018.m3u8
-新疆卫视,http://115.29.208.41:23001/live/1465_7500.m3u8
-西藏卫视,http://115.29.208.41:23001/live/1466.m3u8
-海南卫视,http://115.29.208.41:23001/live/1451.m3u8
-三沙卫视,http://115.29.208.41:23001/live/1453.m3u8
+海南卫视,http://45.192.97.170:8880/play/1174.m3u8
 农林卫视,http://39.164.143.66:13994/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
-内蒙古卫视,http://115.29.208.41:23001/live/1238.m3u8
 厦门卫视,https://live.264788.xyz/channel/xiamenweishi?streamid=2803b9c896a2dce42019b197d39226ec&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-宁夏卫视,http://115.29.208.41:23001/live/1242.m3u8
-甘肃卫视,http://115.29.208.41:23001/live/1236.m3u8
-青海卫视,http://115.29.208.41:23001/live/1251.m3u8
-山西卫视,http://115.29.208.41:23001/live/1246.m3u8
 海峡卫视,http://38.64.72.148:80/hls/modn/list/4009/chunklist0.m3u8
 延边卫视,http://satellitepull.cnr.cn/live/wxybws/playlist.m3u8
 康巴卫视,http://39.164.143.66:13994/tsfile/live/0134_1.m3u8?key=txiptv&playlive=1&authid=0
 安多卫视,http://221.207.6.29:808/hls/22/index.m3u8
 人间卫视,https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/chunklist_w511254805.m3u8
-南方卫视,http://120.237.39.10:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&down=1
+南方卫视,http://120.198.95.220:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&down=1
 莲花卫视,http://122.53.222.9:9981/stream/channelid/801543536?profile=pass
 星空卫视,http://122.53.222.9:9981/stream/channelid/2084767267?profile=pass
 星空卫视国际,http://202.80.222.20/cdn/iptv/Tvod/001/channel2000023/1024.m3u8
@@ -106,32 +58,70 @@ ZooMoo,https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 VIUTV,https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
 TVBS,http://free.cnlive.club/channel/154f9d73/index.m3u8
 TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
+凤凰中文,https://cdn.qd.je/163189/fhzw
+无线星河,https://cdn6.163189.xyz/163189/tvbxh
 Mohabat TV,http://204.11.235.251:1935/live_transcoder/ngrp:mohabat.stream_all/playlist.m3u8
+NHK,https://masterpl.hls.nhkworld.jp/hls/w/live/smarttv.m3u8
+TVBS新闻,http://jnzq.ohoyee.com:9080/live/xingjiaoge-tvbsxw.m3u8
 Harbin Movie Channel,https://stream.hrbtv.net/yspd/playlist.m3u8
 体育,#genre#
-精品体育,https://live.264788.xyz/channel/newtvjingpintiyu?streamid=53f79016c385f5c91cedaba25c3b0559&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 NBA TV,http://bak.dou.ddns-ip.net/api.php?n=xxxtw&id=p1A2xB&tk=SLK5QjnsRiya
 风云足球,http://173.208.187.18:82/live/fyzq.m3u8?jsbt=1760355398&jsbk=d838949ce8ba43fabfa8e16a02449bcf
+五星体育,https://live.264788.xyz/channel/wuxingtiyu?streamid=5d17da390f8e4805aae4a71868d4ef6c&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk$订阅源
+福建体育,https://live.264788.xyz/channel/fujianwenti?streamid=5b085b708bf8a4e62daa5ed392f810ce&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk$订阅源
 辽宁体育,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=lnty$订阅源
 影视,#genre#
 黑龙江影视,http://112.99.193.34:9901/tsfile/live/1025_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
 哈尔滨影视,http://stream.hrbtv.net/yspd/sd/live.m3u8?zheild#http://stream.hrbtv.net/yspd/sd/live.m3u8
 CHC动作电影,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=chcdz
-动作电影,https://live.264788.xyz/channel/newtvdongzuodianying?streamid=05ad887268adec6763cb8eafd1c0b6ec&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-贝贝影视,http://222.186.39.21:35466/douyu/431460
-斗鱼电影HD23,http://222.186.39.21:35466/douyu/6079455
-斗鱼电影HD25,http://222.186.39.21:35466/douyu/8945323
+电影_赛车,http://tv.zimtv.cn/tv/player/api/huya.php?id=11279247
+电影_热血,http://tv.zimtv.cn/tv/player/api/huya.php?id=11352934
+电影_谍战,http://tv.zimtv.cn/tv/player/api/huya.php?id=21059585
+电影_国产,http://tv.zimtv.cn/tv/player/api/huya.php?id=11602041
+电影_八点档,http://tv.zimtv.cn/tv/player/api/huya.php?id=880261
+电影_贺岁片,http://tv.zimtv.cn/tv/player/api/huya.php?id=11601986
+电影_黑帮片,http://tv.zimtv.cn/tv/player/api/huya.php?id=11336719
+电影_丧尸片,http://tv.zimtv.cn/tv/player/api/huya.php?id=21059578
+电影_灾难片,http://tv.zimtv.cn/tv/player/api/huya.php?id=11602075
+电影_谍战片,http://tv.zimtv.cn/tv/player/api/huya.php?id=21059587
+电影_战争片,http://tv.zimtv.cn/tv/player/api/huya.php?id=21059574
+电影_犯罪片,http://tv.zimtv.cn/tv/player/api/huya.php?id=11352974
+电影_古装片,http://tv.zimtv.cn/tv/player/api/huya.php?id=11336590
+电影_高分动作,http://tv.zimtv.cn/tv/player/api/huya.php?id=11352884
+电影_动作电影,http://tv.zimtv.cn/tv/player/api/huya.php?id=11602077
+电影_搞笑喜剧,http://tv.zimtv.cn/tv/player/api/huya.php?id=11342423
+电影_喜剧专场,http://tv.zimtv.cn/tv/player/api/huya.php?id=11602044
+电影_欢笑影院,http://tv.zimtv.cn/tv/player/api/huya.php?id=11352894
+电影_不挤影院,http://tv.zimtv.cn/tv/player/api/huya.php?id=11352897
+电影_国产悬疑,http://tv.zimtv.cn/tv/player/api/huya.php?id=11342395
+电影_快意江湖,http://tv.zimtv.cn/tv/player/api/huya.php?id=11342435
+电影_黑帮斗争,http://tv.zimtv.cn/tv/player/api/huya.php?id=11342419
+电影_古墓系列,http://tv.zimtv.cn/tv/player/api/huya.php?id=11352913
+电影_嫣然影厅,http://tv.zimtv.cn/tv/player/api/huya.php?id=11601977
+电影_女神系列,http://tv.zimtv.cn/tv/player/api/huya.php?id=11336571
+电影_经典女神,http://tv.zimtv.cn/tv/player/api/huya.php?id=11352909
+电影_许氏三杰,http://tv.zimtv.cn/tv/player/api/huya.php?id=11602033
+电影_经典港片,http://tv.zimtv.cn/tv/player/api/huya.php?id=11352965
+电影_镖行天下,http://tv.zimtv.cn/tv/player/api/huya.php?id=11352969
+电影_蘑菇影厅,http://tv.zimtv.cn/tv/player/api/huya.php?id=11601981
+电影_搞笑恐怖,http://tv.zimtv.cn/tv/player/api/huya.php?id=11601960
+电影_怪兽系列,http://tv.zimtv.cn/tv/player/api/huya.php?id=21059554
 天津影视,http://192.151.150.154/live/tjtv3.m3u8
 山西影视,http://113.26.251.182:8009/hls/21/index.m3u8
-广东影视,http://219.135.176.78:85/tsfile/live/643/2028_1.m3u8?key=txiptv
+句容影视,http://jrlive.jrntv.com/live/_definst_/yingshis/playlist.m3u8
+湖南电影,https://phoneal.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNDYMPP360.m3u8
+广东影视,http://218.13.138.139:59901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
 广西影视,http://107.150.60.122/live/gxys.m3u8
+浙江教科影视,http://ali-m-l.cztv.com/channels/lantian/channel04/1080p.m3u8
 辽宁影视剧,http://120.76.248.139/live/bfgd/4200000070.m3u8
 北京淘电影,http://36.110.54.118:866/hls/21/index.m3u8
 绍兴文化影视频道,http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8
 苏州电影娱乐,https://live-auth.51kandianshi.com/szgd/csztv4.m3u8
+新昌休闲影视 (1080p) [Not 24/7],https://l.cztvcloud.com/channels/lantian/SXxinchang2/720p.m3u8
 纪录,#genre#
 探索,http://61.221.215.25:8800/hls/50/index.m3u8
 CGTN Documentary (1080p),https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master.m3u8
+之江纪录,https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
 少儿,#genre#
 黑龙江少儿,http://112.99.193.34:9901/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&authid=0
 卡酷少儿,http://204.12.221.218:8181/3m1080p/btvkk.m3u8
@@ -139,17 +129,15 @@ CGTN Documentary (1080p),https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8
 河北少儿,http://111.61.208.131:9019/hls/23/index.m3u8
 少儿科教,http://222.223.41.27:8888/hls/20/index.m3u8
 地方台,#genre#
-2026-08-14 07:26:18,http://115.29.208.41:23001/live/1402_7500.m3u8
 CETV-1,http://107.150.60.122/live/cetv1hd.m3u8
-CETV-3,http://192.151.150.154/live/cetv3.m3u8
+CETV-3,http://107.150.60.122/live/cetv3.m3u8
 CETV-4,https://satellitepull.cnr.cn/live/wx32nmgyygb/playlist.m3u8
-老故事,http://115.29.208.41:23001/live/1463.m3u8
 中学生,http://113.26.251.182:8009/hls/66/index.m3u8
 魅力时尚,http://120.196.235.42:9901/tsfile/live/1090_1.m3u8?key=txiptv&playlive=1&authid=0
 山东教育,http://live.xmcdn.com/live/802/64.m3u8
 黑龙江新闻法治,http://satellitepull.cnr.cn/live/wx32hljxwgb/playlist.m3u8
 黑龙江文体,http://shuangyashan.coccc.online:65000/tsfile/live/1026_1.m3u8?key=txiptv&playlive=1&authid=0
-黑龙江都市,http://shuangyashan.coccc.online:65000/tsfile/live/1027_1.m3u8?key=txiptv&playlive=1&authid=0
+黑龙江都市,http://112.99.193.34:9901/tsfile/live/1027_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
 哈尔滨综合,http://stream.hrbtv.net/xwzh/sd/live.m3u8?zheild
 哈尔滨生活,http://stream.hrbtv.net/shpd/sd/live.m3u8?zheild
 上海第一财经,http://satellitepull.cnr.cn/live/wx32dycjgb/playlist.m3u8
@@ -158,12 +146,11 @@ CETV-4,https://satellitepull.cnr.cn/live/wx32nmgyygb/playlist.m3u8
 汽摩,http://183.11.239.36:808/hls/66/index.m3u8
 现代教育,http://120.198.86.186:9901/tsfile/live/1112_1.m3u8?key=txiptv&playlive=1&authid=0
 热播剧场,http://120.196.235.42:9901/tsfile/live/1089_1.m3u8?key=txiptv&playlive=1&authid=0
-惊悚悬疑,https://live.264788.xyz/channel/newtvjingsongxuanyi?streamid=cefe64289cde2680e596ee3c1c6a4bf2&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+中国功夫,http://tv.zimtv.cn/tv/player/api/huya.php?id=11352941
 香港佛陀,http://js1.amtb.cn/liveedge/_definst_/livetv/chunklist.m3u8
-耀才财经,https://v3.mediacast.hk/webcast/bshdlive-pc/playlist.m3u8
 环球电视,http://utv1.hqtvzb.com:9999/hls/world.m3u8
 中天新闻,http://173.208.234.146/live/ctinews.m3u8
-寰宇新闻,http://222.128.55.152:9080/live/hy.m3u8
+寰宇新闻,http://jnzq.ohoyee.com:9080/live/xiangjiaoge-hyxw.m3u8
 东森新闻,http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
 民视台湾台,http://74.91.26.218:82/live/ftvtw.m3u8
 台视,http://74.91.26.218:82/live/ttv.m3u8
@@ -175,34 +162,70 @@ CETV-4,https://satellitepull.cnr.cn/live/wx32nmgyygb/playlist.m3u8
 成龙,http://222.186.39.38:8000/333207/index.m3u8
 周星驰,http://222.186.39.38:8000/028749/index.m3u8
 林正英,http://222.186.39.38:8000/782774/index.m3u8
-寻秦记,http://45.192.97.170:8880/play/1233.m3u8
+康熙微服私访记,http://tv.zimtv.cn/tv/player/api/huya.php?id=11342418
+芈月传,http://tv.zimtv.cn/tv/player/api/huya.php?id=11352975
+新三国,http://tv.zimtv.cn/tv/player/api/huya.php?id=11352944
+新水浒传,http://tv.zimtv.cn/tv/player/api/huya.php?id=11342384
+铁齿铜牙纪晓岚,http://tv.zimtv.cn/tv/player/api/huya.php?id=11342396
+士兵突击,http://tv.zimtv.cn/tv/player/api/huya.php?id=11342430
+康熙王朝,http://tv.zimtv.cn/tv/player/api/huya.php?id=11352940
 九品芝麻官,https://txmov2.a.kwimgs.com/upic/2021/12/28/11/BMjAyMTEyMjgxMTIyMTJfNDAzMDAxOTlfNjM2NjgxODA5MTBfMF8z_bF_Bcc38a845b4b4994898062a76d3958bdc.mp4
+父母爱情,http://tv.zimtv.cn/tv/player/api/huya.php?id=11602071
+陈情令,http://tv.zimtv.cn/tv/player/api/huya.php?id=29465862
 无间道2,https://alimov2.a.kwimgs.com/upic/2021/02/09/10/BMjAyMTAyMDkxMDQ0NThfNDAzMDAxOTlfNDM4NTkyODc0MjhfMF8z_b_Bce206fcc2f84121a4d887259d7c5100b.mp4
-吃奶滴虫,http://222.186.39.21:35466/douyu/263824
-精彩短剧看不停,http://222.186.39.21:35466/douyu/11824307
-mn静静nm,http://222.186.39.21:35466/douyu/5668371
-7师傅,http://222.186.39.21:35466/douyu/17732
-网神影厅,http://222.186.39.21:35466/douyu/508118
-动作影院,http://113.25.252.226:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
-邦德影院,http://222.186.39.21:35466/douyu/9292499
-下饭神剧,http://222.186.39.21:35466/douyu/276200
-橙記港剧,http://222.186.39.21:35466/douyu/4549169
-热门港剧,http://222.186.39.21:35466/douyu/5522351
-欢乐综艺,http://222.186.39.21:35466/douyu/131977
-万合出品,http://222.186.39.21:35466/douyu/9220456
-新版三国,http://222.186.39.21:35466/douyu/5908256
-欧美大片,http://222.186.39.21:35466/douyu/2793084
-雪豹,http://222.186.39.21:35466/douyu/7623292
+死神来了,http://tv.zimtv.cn/tv/player/api/huya.php?id=11352903
+搞笑_陈翔六点半,http://tv.zimtv.cn/tv/player/api/huya.php?id=11274154
+春晚1984,http://txmov2.a.kwimgs.com/upic/2022/01/31/15/BMjAyMjAxMzExNTU5NTRfNDAzMDAxOTlfNjYyNzMyMzg3MTRfMF8z_b_B192356dadbc90d207ba16964d4c2914c.mp4
+春晚1985,http://txmov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjAwMDFfNDAzMDAxOTlfNjYyNzMyNTAwMzJfMF8z_b_Be73c5abcbc0eeb2ec9fce6842e1362a4.mp4
+春晚1987,https://txmov2.a.kwimgs.com/bs3/video-hls/5195746663405928031_hlsb.m3u8
+春晚1988,https://txmov2.a.kwimgs.com/bs3/video-hls/5216575810935394655_hlsb.m3u8
+春晚1989,http://txmov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjAwMTVfNDAzMDAxOTlfNjYyNzMyNzQ2OTlfMF8z_b_Be477b27b9ce655d2372df56a5a3d96ef.mp4
+春晚2020,http://txmov2.a.kwimgs.com/upic/2022/01/30/17/BMjAyMjAxMzAxNzA5NDdfNDAzMDAxOTlfNjYxNzQ2MDAyMTFfMF8z_b_B5d51d9564c5670dc66faeba20aa7af3f.mp4
+春晚2021,http://txmov2.a.kwimgs.com/upic/2022/01/30/17/BMjAyMjAxMzAxNzE4NTJfNDAzMDAxOTlfNjYxNzUzOTg3NjlfMF8z_b_Be41d9503181d7b0608a839ed401e02c2.mp4
+春晚2022,http://txmov2.a.kwimgs.com/upic/2022/02/01/11/BMjAyMjAyMDExMTEwMjNfNDAzMDAxOTlfNjYzNzA4MTk4NzNfMF8z_b_B898cc7ddd0025bf54ddb18ec1f723c84.mp4
+文化精品,http://120.238.84.45:9901/tsfile/live/1092_1.m3u8?key=txiptv&playlive=1&authid=0
 电视指南,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=dszn$订阅源
+中视,http://4gtv.cnlive.club/channel/n722644d8/index.m3u8?q=1782639885837
+华视新闻,http://4gtv.cnlive.club/channel/n692bc32c/index.m3u8?q=1782639885837
+东森综合,http://47.242.63.189:2203/1234.php?id=19&s=4$IPV4•线路12
+靖天资讯,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv065
 CHC家庭影院,http://120.238.84.45:9901/tsfile/live/1093_1.m3u8?key=txiptv&playlive=1&authid=0
+NewTV惊悚悬疑,https://live.264788.xyz/channel/newtvjingsongxuanyi?streamid=cefe64289cde2680e596ee3c1c6a4bf2&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk$IPV4•线路4
+靖天映画,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv055
+靖天戏剧,http://serv00.bkpcp.top/litv3.php?id=4gtv-4gtv058
+天映经典,http://o11.163189.xyz/stream/live/ccm/
+先锋乒羽,https://live.264788.xyz/channel/xianfengpingyu?streamid=9d89001802521e3145543837c4ebb717&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk$订阅源
+Tennis Channel,https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischnlintl-lggb/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.coppa=0&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]
+BBC News,https://vs-cmaf-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/iptv_hd_abr_v1.mpd
+Euronews,https://aegis-cloudfront-1.tubi.video/b1c4d439-03a5-4c40-ae9d-90a183e010c9/euronews-en.m3u8
+CNN International,https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+DW English,https://amg01644-amg01644c1-amgplt0343.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg01644-amg01644c1-amgplt0343/playlist.m3u8
+Reuters,https://amg00453-reuters-amg00453c1-rakuten-uk-2110.playouts.now.amagi.tv/playlist/amg00453-reuters-reuters-rakutenuk/playlist.m3u8
+NDTV,https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8
+ABC News,https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index.m3u8
+Fox News,http://primestreams.tv:826/live/TammyMccready/eGj6lFxVyG/109150.ts$订阅源
+Sky News,https://d39chvnxm26pgp.cloudfront.net/v1/master/72588bff830dec7b26d7cbbf5f3c24928aec5c03/cc-sthen6ms4vxgv-stage/WNSFO/ABR.m3u8
+Al Jazeera English,https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8
+CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 ITV,http://89.187.179.148:826/anto.j/c9yJDcXyPe/120268
+TRT World,https://tv-trtworld.medya.trt.com.tr/master_1080.m3u8
+RT News,https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
+Global News,https://live.corusdigitaldev.com/groupb/live/3062d0e3-ed4c-4f47-8482-95648250f4b8/live.isml/.m3u8
+NEWSMAX,https://nmx1ota.akamaized.net/hls/live/2107010/Live_1/3.m3u8
+BBC Earth,https://aegis-cloudfront-1.tubi.video/bb1fc6ad-9948-42ea-aaf3-20acfcdeecac/playlist.m3u8
+GB News,https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-gbnewsnz-samsungnz/playlist.m3u8
+Arirang,http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+优漫卡通,https://live.264788.xyz/channel/youmankatong?streamid=206ebfa84b6cb4c35bec09920b86f4bf&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk$IPV4•线路14
 24H国漫热播,https://www.goodiptv.club/yy/1353937086$订阅源
+七龙珠,https://live.metshop.top/huya/11601966$订阅源
 海绵宝宝,https://live.metshop.top/douyu/3949681$订阅源
 中华小当家,https://live.metshop.top/huya/11342413$订阅源
 经典动漫,https://www.goodiptv.club/yy/24180320$订阅源
 蜡笔小新,https://www.goodiptv.club/huya/11352970$订阅源
 北京淘剧场,http://36.110.54.118:866/hls/20/index.m3u8
+昌黎综合,https://jwcdnqx.hebyun.com.cn/live/clzhpd/1500k/tzwj_video.m3u8
 城市生活,http://120.211.62.180:8000/hls/29/index.m3u8
+重温经典,http://183.129.255.66:8480/hls/50/index.m3u8
 动物星球,http://61.221.215.25:8800/hls/57/index.m3u8
 法国FTV,https://1722840738.rsc.cdn77.org/manifest.m3u8
 广东超高清,http://107.150.60.122/live/gdtvs3.m3u8
@@ -213,17 +236,27 @@ ITV,http://89.187.179.148:826/anto.j/c9yJDcXyPe/120268
 广州南国都市,http://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=140110ae3d6c936a77f94c4f4d85b0d3&txTime=18d57929bd4
 广州新闻频道,http://tencentplay.gztv.com/live/xinwen.m3u8?txSecret=d2c2db0b598c02ec1b5623728434d367&txTime=18d57929bd3
 广州综合频道,http://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=c8dbe86d6f86eb1a21999ab479fd5667&txTime=18d3c4690e8
+河北,https://event.pull.hebtv.com:443/live/live101.m3u8
 河北都市,http://222.223.41.27:8888/hls/18/index.m3u8
 河北经济,http://120.211.62.180:8000/hls/20/index.m3u8
 河北三农,http://222.223.41.27:8888/hls/22/index.m3u8
 河北文旅,http://111.61.208.131:9019/hls/22/index.m3u8
 邯郸公共频道,https://jwcdnqx.hebyun.com.cn/live/hdgg/1500k/tzwj_video.m3u8
 邯郸科技教育,https://jwcdnqx.hebyun.com.cn/live/hdkj/1500k/tzwj_video.m3u8
+河南电视剧,http://1.94.31.214/php/hntv.php?id=hndsj
+河南公共,http://1.94.31.214/php/hntv.php?id=hngg
+河南梨园,http://1.94.31.214/php/hntv.php?id=hnly
+河南乡村,http://1.94.31.214/php/hntv.php?id=hnxc
+河南新闻,http://1.94.31.214/php/hntv.php?id=hnxw
+杭州综合,http://183.129.255.66:8480/hls/19/index.m3u8
+睛彩中原,http://1.94.31.214/php/hntv.php?id=jczy
+嘉佳卡通,http://107.150.60.122/live/gdjjkt.m3u8
 经济生活,http://222.223.41.27:8888/hls/17/index.m3u8
 岭南戏曲,http://107.150.60.122/live/gdlnxq.m3u8
 梨园,http://183.196.87.176:880/hls/57/index.m3u8
 林正英经典,http://129.211.14.102:22223/1351505899
 nusrt,http://gwerdv433vr.otttv.pw/iptv/DZWL85QKSY8Q55/31716/index.m3u8
+三国,http://129.211.14.102:22223/29216766
 神医喜来乐,http://129.211.14.102:22223/1382714119
 文化娱乐,http://222.223.41.27:8888/hls/24/index.m3u8
 武术世界,https://dxtx.hntv.tv/live/wssj.m3u8?txSecret=c38b4d31ba4c45c6babb5c47132123e3&txTime=7ABB976A&wsSecret=b20cbf319d004228e21774021d27ec00&wsTime=1767333643
@@ -232,28 +265,56 @@ nusrt,http://gwerdv433vr.otttv.pw/iptv/DZWL85QKSY8Q55/31716/index.m3u8
 新闻综合,http://222.223.41.27:8888/hls/23/index.m3u8
 浙江国际,http://ali-xwl.cztv.com/live/channel101080Plxw.m3u8#https://ali-xwl.cztv.com/live/channel101080Pnew.m3u8
 浙江民生休闲,http://ali-xwl.cztv.com/live/channel061080Plxw.m3u8#https://ali-xwl.cztv.com/live/channel061080Pnew.m3u8
+浙江钱江,http://id.dnmb.cn/apk.php?id=104
 中央新影-发现之旅,http://107.150.60.122/live/fxzl.m3u8
 中央新影-老故事,http://107.150.60.122/live/lgs.m3u8
-Ando TV (1080p),http://play.kankanlive.com/live/1711956137852982.m3u8
 Anhui TV,https://restream.pdtvhd.com/memfs/c1cd2ed0-3b2b-4c25-af98-a7fb0b1eb130.m3u8
-Anshun Comprehensive News Channel,https://hplayer1.juyun.tv/camera/154379194.m3u8
 CGTN (1080p),https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master.m3u8
 CGTN French (1080p),http://145.239.5.177/214/index.m3u8
 Chifeng Comprehensive News Chanel,http://play1-qk.nmtv.cn/live/1735546697341033.m3u8
 Dragon TV International,https://restream.pdtvhd.com/memfs/0b1b95c9-3543-4af9-9fdb-cf45f1602f17.m3u8
+Guangzhou TV,https://tencentplaybusiness.gztv.com/live/zonghes.m3u8
 Harbin Comprehensive News Channel,https://stream.hrbtv.net/xwzh/playlist.m3u8?_upt=ef41dd531755913594
 Hebei TV,https://restream.pdtvhd.com/memfs/1db8c005-9365-4b32-94a4-3736987b5646.m3u8
 Hunan TV (2160p),http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
+Jiangsu Public & News Channel,https://jiangning-tv-playing-t.cm.jstv.com/jiangning-tv/jnxwzh.m3u8
 Xinjiang TV 2,http://110.153.180.106:55555/out_3/index.m3u8
 Xinjiang TV 3,http://110.153.180.106:55555/out_2/index.m3u8
 Xinjiang TV 8,http://120.70.60.179:9901/tsfile/live/1002_1.m3u8?authid=0&key=txiptv&playlive=1
+四川 Ⅰ 巴中综合台 (1080p) [Not 24/7],http://30814.hlsplay.aodianyun.com/lms_30814/tv_channel_246.flv
+延边新闻综合 [Geo-blocked],https://stream2.jlntv.cn/jlyb/sd/live.m3u8
+新昌新聞綜合 (1080p) [Not 24/7],https://l.cztvcloud.com/channels/lantian/SXxinchang1/720p.m3u8
 江津新闻综合 (480p),http://222.179.155.21:1935/ch1.m3u8
 江津经济生活 (480p),http://222.179.155.21:1935/ch0.m3u8
+浙江新闻,https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
+浙江民生,https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
+浙江经济,https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
 荣昌综合 (404p) [Not 24/7],http://183.64.181.25:40023/rongchang01.m3u8
+Fujian Comprehensive Channel,http://120.39.52.202:5140/%E7%A6%8F%E5%BB%BA%E7%BB%BC%E5%90%88
+广州新闻,https://stream1.freetv.fun/yan-zhou-xin-wen-8.ctv
+广州电视台综合频道,https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=dce137597806f62ae6fdfc40328a336e&txTime=191b5fc1c86
+广州电视台新闻频道,https://tencentplay.gztv.com/live/xinwen.m3u8?txSecret=520177bc9dd6916a7d6fa86bdb3f8830&txTime=191b5f5b230
+广州南国都市频道,https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=7a9302751803950aa7bee6994f477b11&txTime=19182c0a3f6
+汕尾新闻综合,https://stream1.freetv.fun/shan-wei-xin-wen-zong-he-2.ctv
+江门综合,https://stream1.freetv.fun/jiang-men-zong-he-1.ctv
+河源综合,http://tmpstream.hyrtv.cn/xwzh/sd/live.m3u8?zguangd
+河源综艺,http://tmpstream.hyrtv.cn/xwzh/playlist.m3u8?_upt=407e01941606112151?zguangd
+深圳财经生活,https://stream1.freetv.fun/shen-zhen-cai-jing-sheng-huo-2.ctv
+清新综合,http://l.cztvcloud.com/channels/lantian/SXxinchang2/720p.m3u8
+韶关公共,https://www.sgmsw.cn/videos/tv/201805/1308/9P424TC5M000AFO13CXK6GN6BOA889D2/hls/live.m3u8?zguangd
 北京中华特产,http://120.76.248.139/live/bfgd/4200000158.m3u8
 北京优优宝贝,http://120.76.248.139/live/bfgd/4200000153.m3u8
 北京北京纪实科教,http://120.76.248.139/live/bfgd/4200000113.m3u8
 北京四海钓鱼,http://120.76.248.139/live/bfgd/4200000229.m3u8
 北京环球旅游,http://120.76.248.139/live/bfgd/4200000147.m3u8
 北京生态环境频道,http://120.76.248.139/live/bfgd/4200000149.m3u8
+北京科教,http://player.cntv.cn/standard/live_HLSDRM20180606.swf?ChannelID=btv3&P2PChannelID=pd://cctv_p2p_hdbtv3
 北京车迷频道,http://120.76.248.139/live/bfgd/4200000146.m3u8
+北京青年,http://player.cntv.cn/standard/live_HLSDRM20180919.swf?v=180.171.5.8.9.6.3.9&ChannelID=btv8&videoTVChannel=btv8&P2PChannelID=pd://cctv_p2p_hdbtv8&tai=btv8&VideoName=btv8&channelID=btv8
+句容党建频道,http://jrlive.jrntv.com/live/_definst_/dangjians/playlist.m3u8?zjiangsd
+句容影院频道,http://jrlive.jrntv.com/live/_definst_/yingshis/playlist.m3u8?zjiangsd
+句容新闻综合,http://jrlive.jrntv.com/live/_definst_/jrxwzhs/playlist.m3u8?zjiangsd
+苏州社会经济,https://stream1.freetv.fun/su-zhou-she-hui-jing-ji-1.m3u8
+镇江二套社会民生频道,http://zjtv-wshls.homecdn.com/live/2aa16.m3u8
+镇江新闻综合频道,https://stream1.freetv.fun/zhen-jiang-xin-wen-zong-he-1.m3u8
+靖江新闻综合,https://stream1.freetv.fun/jing-jiang-xin-wen-zong-he-1.m3u8
